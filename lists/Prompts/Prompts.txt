@@ -78,7 +78,7 @@ Toughest set of jurors|3
 Most likely to win doubles at a Grand Slam (tennis) tournament|2
 Most likely to be a therapist|1
 Best Mario Kart team|2
-Most likely to be featured on a best-selling rap album|1
+Most likely to make a rap album|1
 Worst at driving|1
 Most likely to be a cop|1
 Most likely to be an elite NASCAR driver|1
@@ -95,13 +95,14 @@ Most likely to make a groundbreaking scientific discovery|1
 Most likely to win a Pulitzer Prize|1
 Most likely to be a mascot for a snack food brand|1
 Most likely to cause a buffet to go bankrupt|1
-Most likely to outshine everyone on the dance floor|2
+Most likely to outshine everyone on the dance floor|1
 Worst babysitter|1
 Most likely to break up with someone because "it's getting too serious"|1
 Most likely to bring fresh food to you when you're sick|1
 Most likely to be a polarizing social media commentator|1
 Most likely to work in Human Resources|1
 Most likely to be horribly overworked nurse|1
+Most likely to be programmer|1
 Most likely to be an Olympic gold winning basketball team|5
 Worst fashion sense|1
 Most likely to be a stand-up comedian|1
@@ -118,3 +119,5 @@ Most likely to be the next K-pop ensemble|3
 Most likely to be a bouncer|1
 Most likely to be a bartender|1
 Most likely to sweep a Wheel of Fortune team game|2
+Most likely to join The Wiggles|1
+Would sing the best villain song|1
